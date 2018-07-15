@@ -1,4 +1,4 @@
-### KOSTGRE
+### KOGRE
 
 Welcome to kogre, a kotlin based postgresql database client. 
 
