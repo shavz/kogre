@@ -1,6 +1,6 @@
 ### KOSTGRE
 
-Welcome to kostgre, a kotlin based postgresql database client. 
+Welcome to kogrek, a kotlin based postgresql database client. 
 
 Tech used
 - [Kotlin](https://kotlinlang.org/) for the core application
